@@ -42,12 +42,13 @@ Full-Stack Developer | Software Engineer | Computer Science Student | chess play
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AY0UBYOUSFI&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AY0UBYOUSFI&layout=compact&theme=radical)
+![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AY0UBYOUSFI&show_icons=true&theme=github_dark&hide=stars,issues&custom_title=GitHub%20Stats&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AY0UBYOUSFI&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=450)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AY0UBYOUSFI&theme=github-dark-blue&hide_border=true)
 
----
+
 
 ###  Connect with Me
 
@@ -56,6 +57,7 @@ Full-Stack Developer | Software Engineer | Computer Science Student | chess play
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/AYOUBYOUSFI)
 
 ---
+
 
 ###  Fun Facts
 
