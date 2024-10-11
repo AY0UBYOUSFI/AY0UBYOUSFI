@@ -1,10 +1,14 @@
- ![developer GIF](https://wallpaperaccess.com/full/1112747.jpg)
-## my name is  **Ayoub peter :(**
-Full-Stack Developer | Software Engineer | Computer Science Student | chess player 
+ ![developer GIF](https://wallpaperaccess.com/full/1112747.jpg?size=40)
+<p align="center">
+  <a href="https://github.com/elhadjx">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=F70000&center=true&width=435&lines=ayoub+yousfi" alt="my name is ayoub yousfi" /></a>
+</p>
 
----
-
-### 🛠 Technologies & Tools
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Full-Stack Developer;Software Engineer;chess+player;Node.js+%7C+Express.js;Everything.js" /></a>
+</p>
+🛠 Technologies & Tools
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
