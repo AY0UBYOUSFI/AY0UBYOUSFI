@@ -8,41 +8,49 @@
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Full-Stack Developer;Software Engineer;chess+player;Node.js+%7C+Express.js;Everything.js" /></a>
 </p>
-🛠 Technologies & Tools
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logo=xml&logoColor=white)
 
+##  Languages & Technologies
+
+### Programming Languages
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=oracle&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=777BB4)
+
+### Front-End Development
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/-SCSS-000000?style=flat&logo=sass&logoColor=CC6699)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css&logoColor=38B2AC)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
+
+### Back-End Development
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=339933)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&logoColor=21759B)
+![HackerRank](https://img.shields.io/badge/-HackerRank-000000?style=flat&logo=hackerrank&logoColor=2EC866)
+![XML](https://img.shields.io/badge/-XML-000000?style=flat&logo=xml&logoColor=FF6600)
 
 ---
 
 ###  What I’m working on
 
-- 🌱 Improving my backend development skills in **Node.js** and **MongoDB**.
-- 👨‍💻 Building web applications for personal and academic projects.
-- 🔍 Delving deeper into **Data Structures**, **Algorithms**, and **System Design**.
+-  Improving my backend development skills in **Node.js** and **MongoDB**.
+-  Building web applications for personal and academic projects.
+-  Delving deeper into **Data Structures**, **Algorithms**, and **System Design**.
 
 ---
 
 ###  Currently Learning
 
-- 🔧 **Microservices** and cloud-native architecture using **Docker** and **Kubernetes**.
-- 🧠 Exploring **Machine Learning** with **Python** and libraries like **TensorFlow**.
-- 💡 Mastering advanced **Java** and **C++** concepts.
+-  **Microservices** and cloud-native architecture using **Docker** and **Kubernetes**.
+-  Exploring **Machine Learning** with **Python** and libraries like **TensorFlow**.
+-  Mastering advanced **Java** and **C++** concepts.
 
 ---
 
@@ -65,7 +73,7 @@
 
 ###  Fun Facts
 
-- 💡 I enjoy problem-solving and participating in coding challenges.
-- 🎨 I love contributing to open-source projects.
-- ♟️ My chess Elo rating is **1800**—I love strategy games!
-- - check my portfolio : <a>https://ayoubptrpro.w3spaces.com/peterofolio.html</a>
+-  I enjoy problem-solving and participating in coding challenges.
+-  I love contributing to open-source projects.
+-  My chess Elo rating is **1800**—I love strategy games!
+-  check my portfolio : <a>https://ayoubptrpro.w3spaces.com/peterofolio.html</a>
