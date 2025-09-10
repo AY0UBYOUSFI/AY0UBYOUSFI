@@ -34,5 +34,5 @@
 
 -  I enjoy problem-solving and participating in coding challenges.
 -  I love contributing to open-source projects.
--  My chess Elo rating is **1800**—I love strategy games!
+-  My chess Elo rating is **1900**—I love strategy games!
 -  check my portfolio : <a href="https://ay0ubyousfi.github.io/">ayoub peter</a>
