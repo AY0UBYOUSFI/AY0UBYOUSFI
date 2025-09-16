@@ -3,6 +3,7 @@
 -  Improving my backend development skills in **Node.js** and **MongoDB**.
 -  Building web applications for personal and academic projects.
 -  Delving deeper into **Data Structures**, **Algorithms**, and **System Design**.
+-  every day i study something new , i born for this shit
 
 ---
 
