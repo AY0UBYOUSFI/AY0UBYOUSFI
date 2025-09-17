@@ -15,13 +15,37 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AY0UBYOUSFI)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 ### GitHub Stats
 
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=AY0UBYOUSFI&show_icons=true&theme=github_dark&hide=stars,issues&custom_title=GitHub%20Stats&hide_border=true&include_all_commits=true&count_private=true)
-
+<div style="height:0px"></div>
+<div align="center">
+  <a href="https://github.com/AY0UBYOUSFI">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AY0UBYOUSFI&theme=solarized_dark" width="605" />
+  </a>
+</div>
+<div style="height:0px"></div>
+<div align="center">
+  <a href="https://github.com/AY0UBYOUSFI" style="display:inline-block;margin-right:0px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AY0UBYOUSFI&theme=solarized_dark" width="300" />
+  </a>
+  <a href="https://github.com/AY0UBYOUSFI" style="display:inline-block;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AY0UBYOUSFI&theme=solarized_dark&utcOffset=+5" width="300" />
+  </a>
+</div>
+<div style="height:2px"></div>
+<div align="center">
+  <a href="https://github.com/AY0UBYOUSFI" style="display:inline-block;margin-right:0px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AY0UBYOUSFI&theme=solarized_dark" width="300" />
+  </a>
+  <a href="https://github.com/AY0UBYOUSFI" style="display:inline-block;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AY0UBYOUSFI&theme=solarized_dark" width="300" />
+  </a>
+</div>
 
 
 
