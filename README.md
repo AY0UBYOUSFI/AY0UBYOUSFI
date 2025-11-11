@@ -1,8 +1,5 @@
 ###  What I’m working on
 
--  Improving my backend development skills in **Node.js** and **MongoDB**.
--  Building web applications for personal and academic projects.
--  Delving deeper into **Data Structures**, **Algorithms**, and **System Design**.
 -  every day i study something new , i born for this shit
 
 ---
@@ -72,7 +69,7 @@
 
 -  I enjoy problem-solving and participating in coding challenges.
 -  I love contributing to open-source projects.
--  My chess Elo rating is **1900**—I love strategy games!
+-  My chess Elo rating is **2000**—I love strategy games!
 -  check my portfolio : <a href="https://ay0ubyousfi.github.io/">ayoub peter</a>
 
 ---
