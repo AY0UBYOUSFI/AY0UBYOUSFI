@@ -4,11 +4,6 @@
 
 ---
 
-###  Currently Learninavg
-
--  **Microservices** and cloud-native architecture using **Docker** and **Kubernetes**.
--  Exploring **Machine Learning** with **Python** and libraries like **TensorFlow**.
--  Mastering advanced **Java** and **C++** concepts.
 
 ---
 
