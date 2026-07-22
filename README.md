@@ -1,40 +1,10 @@
 ###  What I’m working on
 
--  every day i study something new , i born for this shit
+-  i born for this shit
 
 ---
 
 
-
-### GitHub Stats
-
-<div style="height:0px"></div>
-<div align="center">
-  <a href="https://github.com/AY0UBYOUSFI">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AY0UBYOUSFI&theme=solarized_dark" width="605" />
-  </a>
-</div>
-<div style="height:0px"></div>
-<div align="center">
-  <a href="https://github.com/AY0UBYOUSFI" style="display:inline-block;margin-right:0px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AY0UBYOUSFI&theme=solarized_dark" width="300" />
-  </a>
-  <a href="https://github.com/AY0UBYOUSFI" style="display:inline-block;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AY0UBYOUSFI&theme=solarized_dark&utcOffset=+5" width="300" />
-  </a>
-</div>
-<div style="height:2px"></div>
-<div align="center">
-  <a href="https://github.com/AY0UBYOUSFI" style="display:inline-block;margin-right:0px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AY0UBYOUSFI&theme=solarized_dark" width="300" />
-  </a>
-  <a href="https://github.com/AY0UBYOUSFI" style="display:inline-block;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AY0UBYOUSFI&theme=solarized_dark" width="300" />
-  </a>
-</div>
-
-
----
 
 
 ### Tech Stack  
